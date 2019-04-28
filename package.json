@@ -5,5 +5,18 @@
   "main": "index.js",
   "repository": "https://github.com/shahzaibkhalid/serverless-express.git",
   "author": "Shahzaib Khalid <shahzaibkhalidmalik@outlook.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon dev-server.js",
+    "build": "netlify-lambda build src"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.16.4",
+    "netlify-lambda": "^1.4.5",
+    "serverless-http": "^2.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  }
 }
