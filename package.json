@@ -1,0 +1,9 @@
+{
+  "name": "serverless-express",
+  "version": "1.0.0",
+  "description": "A simple Serverless Demo using Express.js on Netlify",
+  "main": "index.js",
+  "repository": "https://github.com/shahzaibkhalid/serverless-express.git",
+  "author": "Shahzaib Khalid <shahzaibkhalidmalik@outlook.com>",
+  "license": "MIT"
+}
