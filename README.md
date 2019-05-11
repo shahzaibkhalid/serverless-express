@@ -5,7 +5,7 @@ A basic guide on how to use Express as a serverless framework and deploy it to N
 
 ## Commands
 
-Run following commands:
+You can run the following commands:
 
 ### Development Server for Serverless Functions
 
